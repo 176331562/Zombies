@@ -1,0 +1,7 @@
+[
+{"id":1,"res":"MonsterPoint/1","monsterIndex":1,"maxWaveNum":5,"monsterNumOneWave":4,"x":193.7544,"y":29.05329,"z":212.7027,"rotateX":-90,"rotateY":0,"rotateZ":0},
+{"id":2,"res":"MonsterPoint/2","monsterIndex":2,"maxWaveNum":6,"monsterNumOneWave":5,"x":222.57,"y":29.52,"z":202.88,"rotateX":-90,"rotateY":0,"rotateZ":0},
+{"id":3,"res":"MonsterPoint/3","monsterIndex":3,"maxWaveNum":7,"monsterNumOneWave":6,"x":195.7544,"y":29.52,"z":214.7027,"rotateX":-90,"rotateY":0,"rotateZ":0},
+{"id":4,"res":"MonsterPoint/4","monsterIndex":4,"maxWaveNum":8,"monsterNumOneWave":7,"x":196.7544,"y":29.52,"z":215.7027,"rotateX":-90,"rotateY":0,"rotateZ":0},
+{"id":5,"res":"MonsterPoint/5","monsterIndex":4,"maxWaveNum":9,"monsterNumOneWave":8,"x":197.7544,"y":29.52,"z":216.7027,"rotateX":-90,"rotateY":0,"rotateZ":0}
+]

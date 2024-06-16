@@ -1,0 +1,6 @@
+[
+{"id":1,"res":"Zombies/ZombieNormal","animator":"Animator/GameScene/Zombies/ZombieNormal","atk":5,"moveSpeed":3,"roundSpeed":100,"hp":10,"atkOffst":100},
+{"id":2,"res":"Zombies/ZombieClimb","animator":"Animator/GameScene/Zombies/ZombieClimb","atk":5,"moveSpeed":2,"roundSpeed":50,"hp":10,"atkOffst":1.2},
+{"id":3,"res":"Zombies/ZombieFast","animator":"Animator/GameScene/Zombies/ZombieFast","atk":5,"moveSpeed":5,"roundSpeed":60,"hp":10,"atkOffst":1},
+{"id":4,"res":"Zombies/ZombieSpecials","animator":"Animator/GameScene/Zombies/ZombieSpecials","atk":5,"moveSpeed":3,"roundSpeed":150,"hp":10,"atkOffst":0.5}
+]

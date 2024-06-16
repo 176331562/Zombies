@@ -1,0 +1,7 @@
+[
+{"id":1,"res":"Weapon/Knife","atk":2,"animator":"Animator/GameScene/Role/1","bulletNum":0,"type":1,"range":0,"hitBack":1,"hitEff":"eff/1"},
+{"id":2,"res":"Weapon/Handgun","atk":3,"animator":"Animator/GameScene/Role/2","bulletNum":30,"type":1,"range":0,"hitBack":1,"hitEff":"eff/1"},
+{"id":3,"res":"Weapon/Machinegun","atk":5,"animator":"Animator/GameScene/Role/3","bulletNum":40,"type":1,"range":0,"hitBack":1,"hitEff":"eff/1"},
+{"id":4,"res":"Weapon/Submachinegun","atk":1,"animator":"Animator/GameScene/Role/4","bulletNum":40,"type":1,"range":0,"hitBack":1,"hitEff":"eff/1"},
+{"id":5,"res":"Weapon/Rocket_launcher","atk":2,"animator":"Animator/GameScene/Role/5","bulletNum":5,"type":1,"range":0,"hitBack":1,"hitEff":"eff/1"}
+]

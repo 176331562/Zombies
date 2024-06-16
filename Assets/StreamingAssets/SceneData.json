@@ -1,0 +1,5 @@
+[
+{"id":1,"imgRes":"ImgScene/1","name":"疯狂树林","sceneName":"GameScene1","tips":"第一个场景","towerHp":100,"money":200},
+{"id":2,"imgRes":"ImgScene/2","name":"极寒雪地","sceneName":"GameScene1","tips":"第二个场景","towerHp":100,"money":200},
+{"id":3,"imgRes":"ImgScene/3","name":"熔岩旱土","sceneName":"GameScene1","tips":"第三个场景","towerHp":100,"money":200}
+]

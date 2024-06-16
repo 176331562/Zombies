@@ -1,0 +1,7 @@
+[
+{"id":1,"res":"Role/1","defaultWeapon":1,"lockMoney":0,"hp":100,"tips":"手持小刀的男人"},
+{"id":2,"res":"Role/2","defaultWeapon":2,"lockMoney":100,"hp":100,"tips":"手持手枪的男人"},
+{"id":3,"res":"Role/3","defaultWeapon":3,"lockMoney":200,"hp":100,"tips":"手持机枪的男人"},
+{"id":4,"res":"Role/4","defaultWeapon":4,"lockMoney":300,"hp":100,"tips":"手持冲锋枪的男人"},
+{"id":5,"res":"Role/5","defaultWeapon":5,"lockMoney":400,"hp":100,"tips":"手持火箭筒的男人"}
+]
